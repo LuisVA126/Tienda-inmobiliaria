@@ -10,7 +10,7 @@ const propertiesData = [
     habitaciones: 3,
     baños: 2,
     parqueaderos: 1,
-    imagen: "depa1.jpg",
+    imagen: "/images/depa1.jpg",
     latitud: 10.9639,
     longitud: -74.7964,
   },
